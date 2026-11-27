@@ -1,0 +1,22 @@
+{
+  "wheel_id": 982,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-156",
+  "project": "garage-door-repair-gold-coast-diy-vs-professional-bd5799cb56a48",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-015",
+  "node_role": "buffer",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repair gold coast diy vs professional",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-156/",
+  "tier": "T2",
+  "writeback_nonce": "8887fc9895c9201f",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/garage-door-repair-gold-coast-goldcoastgaragedoorrepairs-015/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/garage-door-repair-gold-coast-goldcoastgaragedoorrepairs-015/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
